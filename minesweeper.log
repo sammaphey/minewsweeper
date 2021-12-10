@@ -1,0 +1,1133 @@
+2021-12-08 14:25:59,806 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:25:59,806 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:25:59,806 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:25:59,806 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:25:59,806 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:26:01,048 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32777-WindowMoved {'x': 0, 'y': 45, 'window': None})>
+2021-12-08 14:26:01,049 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32774-WindowShown {'window': None})>
+2021-12-08 14:26:01,049 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32770-VideoExpose {})>
+2021-12-08 14:26:01,049 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32776-WindowExposed {'window': None})>
+2021-12-08 14:26:01,097 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 1, 'state': 0})>
+2021-12-08 14:26:01,097 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32783-WindowEnter {'window': None})>
+2021-12-08 14:26:01,098 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (730, 528), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,098 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+2021-12-08 14:26:01,098 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32785-WindowFocusGained {'window': None})>
+2021-12-08 14:26:01,098 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (515, 183), 'rel': (-215, -345), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,102 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (515, 182), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,110 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (513, 177), 'rel': (-2, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,118 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (509, 172), 'rel': (-4, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,126 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (506, 168), 'rel': (-3, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,134 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (502, 164), 'rel': (-4, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,142 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (498, 161), 'rel': (-4, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,150 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (496, 159), 'rel': (-2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,165 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (490, 154), 'rel': (-6, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,443 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (477, 144), 'rel': (-13, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,889 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (471, 144), 'rel': (-6, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,897 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (463, 142), 'rel': (-8, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,905 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (456, 140), 'rel': (-7, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,913 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (448, 138), 'rel': (-8, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,921 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (439, 136), 'rel': (-9, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,929 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (432, 133), 'rel': (-7, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,937 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (421, 130), 'rel': (-11, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,945 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (403, 125), 'rel': (-18, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,954 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (379, 120), 'rel': (-24, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,961 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (372, 118), 'rel': (-7, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,969 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (355, 116), 'rel': (-17, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,977 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (350, 115), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,985 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (340, 114), 'rel': (-10, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:01,993 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (334, 114), 'rel': (-6, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,001 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (329, 114), 'rel': (-5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,009 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (325, 114), 'rel': (-4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,018 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (324, 114), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,026 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (323, 114), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,034 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (321, 114), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,079 - __main__:_handle_click:95 - DEBUG - drawing circle at (321, 114)
+2021-12-08 14:26:02,168 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (321, 114), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:26:02,354 - __main__:_handle_click:95 - DEBUG - drawing circle at (321, 114)
+2021-12-08 14:26:02,483 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (321, 114), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:26:02,671 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (321, 122), 'rel': (0, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,679 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (321, 133), 'rel': (0, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,687 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (321, 143), 'rel': (0, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,695 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (321, 158), 'rel': (0, 15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,703 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (322, 170), 'rel': (1, 12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,711 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (324, 184), 'rel': (2, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,719 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (331, 208), 'rel': (7, 24), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,727 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (334, 219), 'rel': (3, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,736 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (339, 237), 'rel': (5, 18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,744 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (341, 242), 'rel': (2, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,752 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (344, 253), 'rel': (3, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,760 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (346, 259), 'rel': (2, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,768 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (348, 263), 'rel': (2, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,776 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (348, 265), 'rel': (0, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,784 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (349, 267), 'rel': (1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,800 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (350, 267), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,808 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (350, 268), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:02,830 - __main__:_handle_click:95 - DEBUG - drawing circle at (350, 268)
+2021-12-08 14:26:02,910 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (350, 268), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:26:03,074 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (349, 266), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,083 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (339, 252), 'rel': (-10, -14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,091 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (330, 237), 'rel': (-9, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,099 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (322, 227), 'rel': (-8, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,107 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (314, 215), 'rel': (-8, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,115 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (303, 200), 'rel': (-11, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,123 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (292, 187), 'rel': (-11, -13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,131 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (271, 161), 'rel': (-21, -26), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,139 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (250, 136), 'rel': (-21, -25), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,147 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (233, 116), 'rel': (-17, -20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,155 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (215, 95), 'rel': (-18, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,163 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (209, 88), 'rel': (-6, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,171 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (195, 74), 'rel': (-14, -14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,179 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (185, 61), 'rel': (-10, -13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,188 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (173, 50), 'rel': (-12, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,196 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (163, 41), 'rel': (-10, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,204 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (153, 33), 'rel': (-10, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,211 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (146, 28), 'rel': (-7, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,220 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (139, 21), 'rel': (-7, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,228 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (134, 17), 'rel': (-5, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,236 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (128, 12), 'rel': (-6, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,244 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (126, 11), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,252 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (122, 8), 'rel': (-4, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,260 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (118, 5), 'rel': (-4, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,268 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (112, 1), 'rel': (-6, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,277 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (107, 0), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,285 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (104, 0), 'rel': (-3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:03,285 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 0, 'state': 0})>
+2021-12-08 14:26:03,285 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32784-WindowLeave {'window': None})>
+2021-12-08 14:26:03,894 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32787-WindowClose {'window': None})>
+2021-12-08 14:26:35,513 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:26:35,514 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:26:35,514 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:26:35,514 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:26:35,514 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:26:36,716 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32777-WindowMoved {'x': 0, 'y': 45, 'window': None})>
+2021-12-08 14:26:36,716 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32774-WindowShown {'window': None})>
+2021-12-08 14:26:36,716 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32770-VideoExpose {})>
+2021-12-08 14:26:36,716 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32776-WindowExposed {'window': None})>
+2021-12-08 14:26:36,780 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 1, 'state': 0})>
+2021-12-08 14:26:36,781 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32783-WindowEnter {'window': None})>
+2021-12-08 14:26:36,781 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (696, 496), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,781 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+2021-12-08 14:26:36,781 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32785-WindowFocusGained {'window': None})>
+2021-12-08 14:26:36,841 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (695, 496), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,849 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (691, 491), 'rel': (-4, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,857 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (689, 489), 'rel': (-2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,873 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (688, 488), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,881 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (687, 486), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,889 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (686, 486), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,897 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (686, 485), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,913 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (686, 484), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,929 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (684, 482), 'rel': (-2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,938 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (683, 479), 'rel': (-1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,946 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (682, 476), 'rel': (-1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,953 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (681, 472), 'rel': (-1, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,962 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (679, 468), 'rel': (-2, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,970 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (678, 465), 'rel': (-1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,978 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (676, 461), 'rel': (-2, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,986 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (676, 458), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:36,994 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (674, 456), 'rel': (-2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:37,002 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (674, 454), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:37,018 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (674, 453), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:26:37,040 - __main__:_handle_click:95 - DEBUG - drawing circle at (674, 453)
+2021-12-08 14:27:07,968 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:27:07,968 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:27:07,968 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:27:07,968 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:27:07,968 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:27:09,095 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32777-WindowMoved {'x': 0, 'y': 45, 'window': None})>
+2021-12-08 14:27:09,096 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32774-WindowShown {'window': None})>
+2021-12-08 14:27:09,096 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32770-VideoExpose {})>
+2021-12-08 14:27:09,096 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32776-WindowExposed {'window': None})>
+2021-12-08 14:27:09,155 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 1, 'state': 0})>
+2021-12-08 14:27:09,156 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32783-WindowEnter {'window': None})>
+2021-12-08 14:27:09,156 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (786, 773), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:09,156 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+2021-12-08 14:27:09,156 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32785-WindowFocusGained {'window': None})>
+2021-12-08 14:27:10,259 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (786, 770), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,267 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (785, 768), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,276 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (785, 765), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,284 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (784, 760), 'rel': (-1, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,292 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (782, 754), 'rel': (-2, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,299 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (781, 749), 'rel': (-1, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,307 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (780, 743), 'rel': (-1, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,316 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (779, 736), 'rel': (-1, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,324 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (777, 727), 'rel': (-2, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,332 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (776, 716), 'rel': (-1, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,340 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (774, 706), 'rel': (-2, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,348 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (772, 695), 'rel': (-2, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,356 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (771, 691), 'rel': (-1, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,364 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (770, 682), 'rel': (-1, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,372 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (770, 676), 'rel': (0, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,380 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (769, 671), 'rel': (-1, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,388 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (768, 667), 'rel': (-1, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,396 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (768, 665), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,404 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (768, 663), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,413 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (767, 661), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,429 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (767, 660), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,525 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (766, 659), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,533 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (766, 658), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,542 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (765, 657), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,550 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (764, 655), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,558 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (764, 654), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,566 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (763, 653), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,574 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (762, 652), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,582 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (762, 651), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,590 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (761, 651), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,598 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (761, 650), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,606 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (760, 650), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,622 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (759, 650), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,639 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (758, 650), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,669 - __main__:_handle_click:95 - DEBUG - drawing circle at (758, 650)
+2021-12-08 14:27:10,669 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (757, 650), 'rel': (-1, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:10,749 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (757, 650), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:27:11,001 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (757, 649), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,009 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (765, 643), 'rel': (8, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,017 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (773, 636), 'rel': (8, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,025 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (786, 628), 'rel': (13, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,033 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (798, 620), 'rel': (12, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,042 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (810, 611), 'rel': (12, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,050 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (837, 593), 'rel': (27, -18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,058 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (863, 574), 'rel': (26, -19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,066 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (891, 552), 'rel': (28, -22), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,074 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (900, 546), 'rel': (9, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,082 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (918, 529), 'rel': (18, -17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,090 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (933, 516), 'rel': (15, -13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,098 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (943, 505), 'rel': (10, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,106 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (946, 502), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,114 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (952, 495), 'rel': (6, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,122 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (956, 489), 'rel': (4, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,130 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (959, 486), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,138 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (960, 484), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,146 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (961, 483), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,154 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (962, 482), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,163 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (962, 481), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,179 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (963, 481), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,201 - __main__:_handle_click:95 - DEBUG - drawing circle at (963, 481)
+2021-12-08 14:27:11,282 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (963, 481), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:27:11,518 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (962, 480), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,526 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (951, 464), 'rel': (-11, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,534 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (932, 437), 'rel': (-19, -27), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,542 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (908, 406), 'rel': (-24, -31), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,550 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (894, 386), 'rel': (-14, -20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,558 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (870, 357), 'rel': (-24, -29), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,566 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (860, 346), 'rel': (-10, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,574 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (842, 329), 'rel': (-18, -17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,582 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (828, 315), 'rel': (-14, -14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,590 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (816, 306), 'rel': (-12, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,598 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (806, 301), 'rel': (-10, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,606 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (803, 299), 'rel': (-3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,614 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (797, 297), 'rel': (-6, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,622 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (792, 295), 'rel': (-5, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,630 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (789, 295), 'rel': (-3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,638 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (785, 295), 'rel': (-4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,646 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (783, 294), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,654 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (781, 294), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,663 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (780, 294), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,671 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (779, 294), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,687 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (778, 294), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:11,717 - __main__:_handle_click:95 - DEBUG - drawing circle at (778, 294)
+2021-12-08 14:27:11,805 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (778, 294), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:27:12,034 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (777, 294), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,042 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (771, 294), 'rel': (-6, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,050 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (765, 294), 'rel': (-6, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,058 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (758, 294), 'rel': (-7, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,066 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (753, 293), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,074 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (745, 292), 'rel': (-8, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,082 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (735, 289), 'rel': (-10, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,090 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (714, 285), 'rel': (-21, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,098 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (705, 282), 'rel': (-9, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,106 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (686, 278), 'rel': (-19, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,115 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (651, 270), 'rel': (-35, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,123 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (642, 269), 'rel': (-9, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,131 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (623, 265), 'rel': (-19, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,139 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (607, 264), 'rel': (-16, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,147 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (590, 263), 'rel': (-17, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,155 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (578, 262), 'rel': (-12, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,163 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (567, 262), 'rel': (-11, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,171 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (558, 262), 'rel': (-9, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,179 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (549, 262), 'rel': (-9, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,187 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (546, 262), 'rel': (-3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,195 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (541, 262), 'rel': (-5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,203 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (537, 262), 'rel': (-4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,211 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (534, 262), 'rel': (-3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,219 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (532, 262), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,227 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (531, 262), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,235 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (530, 262), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,258 - __main__:_handle_click:95 - DEBUG - drawing circle at (530, 262)
+2021-12-08 14:27:12,258 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (529, 262), 'rel': (-1, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,330 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1026-MouseButtonUp {'pos': (529, 262), 'button': 1, 'touch': False, 'window': None})>
+2021-12-08 14:27:12,542 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (523, 261), 'rel': (-6, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,550 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (514, 258), 'rel': (-9, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,558 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (502, 252), 'rel': (-12, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,566 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (486, 242), 'rel': (-16, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,574 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (470, 232), 'rel': (-16, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,582 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (457, 225), 'rel': (-13, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,590 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (441, 215), 'rel': (-16, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,599 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (425, 208), 'rel': (-16, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,606 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (397, 192), 'rel': (-28, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,615 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (387, 187), 'rel': (-10, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,623 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (365, 176), 'rel': (-22, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,631 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (327, 156), 'rel': (-38, -20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,639 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (307, 147), 'rel': (-20, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,647 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (298, 143), 'rel': (-9, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,655 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (283, 136), 'rel': (-15, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,663 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (265, 129), 'rel': (-18, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,671 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (252, 123), 'rel': (-13, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,679 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (241, 119), 'rel': (-11, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,687 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (230, 114), 'rel': (-11, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,696 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (219, 109), 'rel': (-11, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,704 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (207, 104), 'rel': (-12, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,711 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (198, 99), 'rel': (-9, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,720 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (186, 93), 'rel': (-12, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,728 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (176, 88), 'rel': (-10, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,736 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (166, 80), 'rel': (-10, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,744 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (156, 73), 'rel': (-10, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,752 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (145, 65), 'rel': (-11, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,760 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (123, 50), 'rel': (-22, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,768 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (116, 45), 'rel': (-7, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,776 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (104, 36), 'rel': (-12, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,784 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (92, 28), 'rel': (-12, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,792 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (88, 25), 'rel': (-4, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,800 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (80, 19), 'rel': (-8, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,808 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (74, 16), 'rel': (-6, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,817 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (69, 14), 'rel': (-5, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,825 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (67, 12), 'rel': (-2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,833 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (64, 11), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,841 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (61, 10), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,849 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (59, 9), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,857 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (54, 8), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,865 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (52, 7), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,873 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (49, 6), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,881 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (45, 6), 'rel': (-4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,889 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (43, 5), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,897 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (39, 4), 'rel': (-4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,905 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (37, 3), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,914 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (34, 3), 'rel': (-3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,921 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (32, 2), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,929 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (30, 2), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,937 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (29, 2), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,946 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (28, 1), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,954 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (27, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,962 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (26, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,978 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (25, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:12,986 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (24, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,002 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (23, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,035 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (22, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,043 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (21, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,059 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (20, 1), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,067 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (19, 0), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,083 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (18, 0), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,100 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(1024-MouseMotion {'pos': (17, 0), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+2021-12-08 14:27:13,100 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32768-ActiveEvent {'gain': 0, 'state': 0})>
+2021-12-08 14:27:13,100 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32784-WindowLeave {'window': None})>
+2021-12-08 14:27:13,411 - __main__:_handle_game_event:87 - INFO - unrecognized event <Event(32787-WindowClose {'window': None})>
+2021-12-08 14:28:33,929 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:28:33,929 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:28:33,929 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:28:33,929 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:28:33,930 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:28:39,524 - __main__:_handle_click:96 - DEBUG - drawing circle at (827, 593)
+2021-12-08 14:28:40,128 - __main__:_handle_click:96 - DEBUG - drawing circle at (382, 309)
+2021-12-08 14:30:38,508 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:30:38,508 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:30:38,508 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:30:38,508 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:30:38,509 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:30:40,215 - __main__:_handle_click:96 - DEBUG - drawing circle at (729, 444)
+2021-12-08 14:30:40,949 - __main__:_handle_click:96 - DEBUG - drawing circle at (768, 294)
+2021-12-08 14:30:41,627 - __main__:_handle_click:96 - DEBUG - drawing circle at (849, 260)
+2021-12-08 14:30:42,345 - __main__:_handle_click:96 - DEBUG - drawing circle at (937, 389)
+2021-12-08 14:30:42,813 - __main__:_handle_click:96 - DEBUG - drawing circle at (995, 284)
+2021-12-08 14:30:43,595 - __main__:_handle_click:96 - DEBUG - drawing circle at (771, 150)
+2021-12-08 14:30:44,378 - __main__:_handle_click:96 - DEBUG - drawing circle at (518, 176)
+2021-12-08 14:44:21,267 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:44:21,267 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:44:21,267 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:44:21,267 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:44:21,268 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:44:44,787 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:44:44,787 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:44:44,787 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:44:44,787 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:44:44,787 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:45:02,589 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:45:02,589 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:45:02,589 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:45:02,589 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:45:02,589 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:45:19,767 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:45:19,767 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:45:19,767 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:45:19,767 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:45:19,768 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:46:06,619 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:46:06,619 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:46:06,619 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:46:06,619 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:46:06,619 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:46:24,816 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:46:24,816 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:46:24,816 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:46:24,816 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:46:24,816 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:46:43,834 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:46:43,834 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:46:43,834 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:46:43,834 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:46:43,834 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:47:22,031 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:47:22,032 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:47:22,032 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:47:22,032 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:47:22,032 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:47:40,869 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:47:40,870 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:47:40,870 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:47:40,870 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:47:40,870 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:47:48,910 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:47:48,911 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:47:48,911 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:47:48,911 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:47:48,911 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:47:51,777 - __main__:_handle_click:105 - DEBUG - drawing circle at (273, 147)
+2021-12-08 14:48:20,457 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:48:20,457 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:48:20,457 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:48:20,457 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:48:20,457 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:59:31,714 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:59:31,715 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:59:31,715 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:59:31,715 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:59:31,715 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:59:44,509 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:59:44,509 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:59:44,509 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:59:44,509 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:59:44,509 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:59:57,473 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 14:59:57,474 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 14:59:57,474 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 14:59:57,474 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 14:59:57,474 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 14:59:59,460 - __main__:_handle_click:115 - DEBUG - drawing circle at (630, 424)
+2021-12-08 15:02:48,303 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:02:48,303 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:02:48,303 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:02:48,303 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:02:48,303 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:03:07,864 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:03:07,864 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:03:07,864 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:03:07,865 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:03:07,865 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:03:20,826 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:03:20,827 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:03:20,827 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:03:20,827 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:03:20,827 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:12:42,978 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:12:42,978 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:12:42,979 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:12:42,979 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:12:42,979 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:13:26,515 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:13:26,515 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:13:26,515 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:13:26,515 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:13:26,515 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:14:27,186 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:14:27,186 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:14:27,186 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:14:27,186 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:14:27,186 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:15:05,944 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:15:05,944 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:15:05,944 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:15:05,944 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:15:05,944 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:15:50,269 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:15:50,269 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:15:50,270 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:15:50,270 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:15:50,270 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:16:21,509 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:16:21,509 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:16:21,509 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:16:21,509 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:16:21,509 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:16:38,638 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:16:38,638 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:16:38,638 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:16:38,638 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:16:38,638 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:18:02,755 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:18:02,755 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:18:02,755 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:18:02,755 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:18:02,755 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:18:38,302 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:18:38,302 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:18:38,303 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:18:38,303 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:18:38,303 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:18:49,143 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:18:49,143 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:18:49,143 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:18:49,144 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:18:49,144 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:22:37,864 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:22:37,864 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:22:37,864 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:22:37,864 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:22:37,864 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:23:05,605 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:23:05,605 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:23:05,605 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:23:05,605 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:23:05,605 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:24:14,395 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:24:14,396 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:24:14,396 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:24:14,396 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:24:14,396 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:25:34,528 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:25:34,528 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:25:34,528 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:25:34,528 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:25:34,528 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:28:11,718 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:28:11,718 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:28:11,718 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:28:11,718 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:28:11,718 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:28:47,312 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:28:47,312 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:28:47,312 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:28:47,312 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:28:47,312 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:29:39,335 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:29:39,335 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:29:39,335 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:29:39,335 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:29:39,335 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:29:59,023 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:29:59,023 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:29:59,023 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:29:59,023 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:29:59,023 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:30:37,793 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:30:37,794 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:30:37,794 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:30:37,794 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:30:37,794 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:31:06,088 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:31:06,088 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:31:06,088 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:31:06,088 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:31:06,088 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:32:21,573 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:32:21,574 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:32:21,574 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:32:21,574 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:32:21,574 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:32:46,534 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:32:46,534 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:32:46,535 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:32:46,535 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:32:46,535 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:34:03,742 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:34:03,742 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:34:03,742 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:34:03,742 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:34:03,742 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:34:46,575 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:34:46,575 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:34:46,575 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:34:46,576 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:34:46,576 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:35:18,050 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:35:18,050 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:35:18,050 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:35:18,050 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:35:18,050 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:35:51,135 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:35:51,135 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:35:51,135 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:35:51,135 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:35:51,135 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:36:13,281 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:36:13,281 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:36:13,281 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:36:13,281 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:36:13,281 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:36:47,386 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:36:47,387 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:36:47,387 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:36:47,387 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:36:47,387 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:37:01,480 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:37:01,480 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:37:01,480 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:37:01,481 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:37:01,481 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:37:14,919 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:37:14,919 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:37:14,919 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:37:14,919 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:37:14,919 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:42:14,064 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:42:14,065 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:42:14,065 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:42:14,065 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:42:14,065 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:42:37,415 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:42:37,416 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:42:37,416 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:42:37,416 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:42:37,416 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:42:54,086 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:42:54,086 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:42:54,086 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:42:54,086 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:42:54,086 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:45:09,335 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:45:09,336 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:45:09,336 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:45:09,336 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:45:09,336 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:45:39,181 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:45:39,181 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:45:39,181 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:45:39,181 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:45:39,182 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:53:52,685 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:53:52,685 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:53:52,685 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:53:52,686 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:53:52,686 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:54:17,863 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:54:17,863 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:54:17,863 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:54:17,863 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:54:17,863 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:55:20,691 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:55:20,691 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:55:20,691 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:55:20,691 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:55:20,691 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 15:55:32,764 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 15:55:32,764 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 15:55:32,764 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 15:55:32,764 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 15:55:32,764 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:04:01,149 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:04:01,149 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:04:01,149 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:04:01,149 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:04:01,149 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:05:34,627 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:05:34,627 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:05:34,627 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:05:34,627 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:05:34,627 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:08:58,459 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:08:58,459 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:08:58,459 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:08:58,459 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:08:58,459 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:09:31,031 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:09:31,032 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:09:31,032 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:09:31,032 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:09:31,032 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:09:58,013 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:09:58,013 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:09:58,013 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:09:58,013 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:09:58,013 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:13:16,947 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:13:16,948 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:13:16,948 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:13:16,948 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:13:16,948 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:14:28,967 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:14:28,967 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:14:28,967 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:14:28,968 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:14:28,968 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:25:06,801 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:25:06,801 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:25:06,802 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:25:06,802 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:25:06,802 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:25:59,263 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:25:59,263 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:25:59,263 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:25:59,263 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:25:59,263 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 16:26:54,737 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 16:26:54,737 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 16:26:54,737 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 16:26:54,737 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 16:26:54,737 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:16:22,152 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:16:22,152 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:16:22,152 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:16:22,152 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:16:22,153 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:17:04,130 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:17:04,130 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:17:04,130 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:17:04,130 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:17:04,130 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:17:29,748 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:17:29,748 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:17:29,748 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:17:29,748 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:17:29,748 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:18:41,616 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:18:41,616 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:18:41,617 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:18:41,617 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:18:41,617 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:19:38,387 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:19:38,387 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:19:38,387 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:19:38,387 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:19:38,387 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:20:42,865 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:20:42,865 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:20:42,865 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:20:42,865 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:20:42,865 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:20:52,874 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:20:52,874 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:20:52,874 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:20:52,874 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:20:52,874 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:22:09,987 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:22:09,988 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:22:09,988 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:22:09,988 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:22:09,988 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:22:36,298 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:22:36,299 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:22:36,299 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:22:36,299 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:22:36,299 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:23:52,904 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:23:52,905 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:23:52,905 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:23:52,905 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:23:52,905 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:27:15,736 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:27:15,736 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:27:15,736 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:27:15,736 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:27:15,736 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:28:24,583 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:28:24,583 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:28:24,583 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:28:24,583 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:28:24,583 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:28:42,041 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:28:42,042 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:28:42,042 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:28:42,042 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:28:42,042 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:30:41,962 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:30:41,962 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:30:41,962 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:30:41,962 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:30:41,962 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:31:31,338 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:31:31,338 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:31:31,338 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:31:31,338 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:31:31,339 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:31:57,999 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:31:58,000 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:31:58,000 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:31:58,000 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:31:58,000 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:32:25,819 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:32:25,819 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:32:25,819 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:32:25,819 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:32:25,819 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:32:35,887 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:32:35,887 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:32:35,887 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:32:35,887 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:32:35,887 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:33:49,440 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:33:49,441 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:33:49,441 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:33:49,441 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:33:49,441 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:34:27,088 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:34:27,088 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:34:27,088 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:34:27,088 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:34:27,088 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:35:46,866 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:35:46,866 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:35:46,866 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:35:46,866 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:35:46,866 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:36:21,437 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:36:21,437 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:36:21,438 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:36:21,438 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:36:21,438 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:36:46,208 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:36:46,209 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:36:46,209 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:36:46,209 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:36:46,209 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:37:13,829 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:37:13,829 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:37:13,829 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:37:13,829 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:37:13,829 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:37:32,501 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:37:32,501 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:37:32,501 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:37:32,501 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:37:32,501 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:39:17,634 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:39:17,634 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:39:17,634 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:39:17,634 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:39:17,634 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:39:51,096 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:39:51,096 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:39:51,096 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:39:51,096 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:39:51,096 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:40:19,936 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:40:19,936 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:40:19,936 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:40:19,937 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:40:19,937 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:40:57,388 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:40:57,388 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:40:57,388 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:40:57,388 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:40:57,389 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:43:51,972 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:43:51,972 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:43:51,972 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:43:51,972 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:43:51,972 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:44:04,761 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:44:04,762 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:44:04,762 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:44:04,762 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:44:04,762 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:45:23,185 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:45:23,185 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:45:23,185 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:45:23,185 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:45:23,185 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:45:45,757 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:45:45,757 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:45:45,757 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:45:45,757 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:45:45,757 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:45:55,693 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:45:55,693 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:45:55,693 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:45:55,693 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:45:55,693 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:46:49,780 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:46:49,780 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:46:49,780 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:46:49,780 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:46:49,780 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:48:26,594 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:48:26,594 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:48:26,594 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:48:26,595 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:48:26,595 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:49:07,699 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:49:07,700 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:49:07,700 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:49:07,700 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:49:07,700 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:49:21,667 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:49:21,667 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:49:21,667 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:49:21,667 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:49:21,667 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:51:01,335 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:51:01,335 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:51:01,335 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:51:01,335 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:51:01,335 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:52:52,156 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:52:52,157 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:52:52,157 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:52:52,157 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:52:52,157 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-08 18:53:08,210 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-08 18:53:08,210 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-08 18:53:08,211 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-08 18:53:08,211 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-08 18:53:08,211 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 11:52:14,816 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 11:52:14,816 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 11:52:14,816 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 11:52:14,816 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 11:52:14,816 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 11:54:20,929 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 11:54:20,929 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 11:54:20,929 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 11:54:20,929 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 11:54:20,929 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 11:54:46,230 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 11:54:46,230 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 11:54:46,230 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 11:54:46,230 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 11:54:46,230 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:13:05,151 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:13:05,151 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:13:05,152 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:13:05,152 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:13:05,152 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:14:39,942 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:14:39,942 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:14:39,942 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:14:39,942 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:14:39,942 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:14:52,572 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:14:52,572 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:14:52,572 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:14:52,572 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:14:52,572 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:15:04,220 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:15:04,221 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:15:04,221 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:15:04,221 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:15:04,221 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:15:24,435 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:15:24,436 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:15:24,436 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:15:24,436 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:15:24,436 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:15:37,300 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:15:37,301 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:15:37,301 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:15:37,301 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:15:37,301 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:16:01,290 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:16:01,290 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:16:01,290 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:16:01,290 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:16:01,290 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:17:02,911 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:17:02,911 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:17:02,911 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:17:02,911 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:17:02,911 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:19:08,485 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:19:08,486 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:19:08,486 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:19:08,486 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:19:08,486 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:36:10,154 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:36:10,154 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:36:10,154 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:36:10,154 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:36:10,154 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:37:22,299 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:37:22,299 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:37:22,299 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:37:22,299 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:37:22,299 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:37:34,444 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:37:34,444 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:37:34,444 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:37:34,444 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:37:34,444 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:38:29,114 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:38:29,114 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:38:29,114 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:38:29,114 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:38:29,114 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:39:16,561 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:39:16,561 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:39:16,561 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:39:16,561 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:39:16,561 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:40:24,376 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:40:24,376 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:40:24,376 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:40:24,377 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:40:24,377 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:40:35,719 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:40:35,719 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:40:35,719 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:40:35,719 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:40:35,719 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:41:14,752 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:41:14,752 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:41:14,753 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:41:14,753 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:41:14,753 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:41:39,327 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:41:39,327 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:41:39,327 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:41:39,327 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:41:39,327 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:42:02,226 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:42:02,226 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:42:02,226 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:42:02,226 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:42:02,226 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:42:40,679 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:42:40,679 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:42:40,679 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:42:40,679 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:42:40,679 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:43:11,801 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:43:11,801 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:43:11,801 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:43:11,801 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:43:11,801 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:44:18,979 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:44:18,979 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:44:18,979 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:44:18,979 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:44:18,980 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:44:41,354 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:44:41,354 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:44:41,354 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:44:41,355 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:44:41,355 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:45:03,369 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:45:03,369 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:45:03,369 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:45:03,369 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:45:03,369 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:46:14,894 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:46:14,894 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:46:14,894 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:46:14,894 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:46:14,894 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:47:26,699 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:47:26,699 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:47:26,699 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:47:26,699 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:47:26,699 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:49:20,928 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:49:20,928 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:49:20,928 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:49:20,929 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:49:20,929 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:49:35,917 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:49:35,917 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:49:35,917 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:49:35,917 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:49:35,917 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:50:05,643 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:50:05,643 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:50:05,643 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:50:05,643 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:50:05,643 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:52:17,620 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:52:17,621 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:52:17,621 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:52:17,621 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:52:17,621 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:54:32,090 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:54:32,091 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:54:32,091 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:54:32,092 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:54:32,092 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:55:12,165 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:55:12,165 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:55:12,165 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:55:12,165 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:55:12,165 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:56:52,985 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:56:52,985 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:56:52,985 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:56:52,985 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:56:52,985 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 18:57:30,432 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 18:57:30,433 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 18:57:30,433 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 18:57:30,433 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 18:57:30,433 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:07:14,005 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:07:14,005 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:07:14,005 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:07:14,005 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:07:14,005 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:10:25,383 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:10:25,383 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:10:25,383 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:10:25,383 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:10:25,384 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:10:56,080 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:10:56,080 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:10:56,080 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:10:56,080 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:10:56,080 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:13:14,714 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:13:14,714 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:13:14,714 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:13:14,714 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:13:14,714 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:13:42,623 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:13:42,623 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:13:42,624 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:13:42,624 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:13:42,624 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:13:59,429 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:13:59,429 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:13:59,430 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:13:59,430 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:13:59,430 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:18:06,387 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:18:06,387 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:18:06,387 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:18:06,387 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:18:06,387 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:18:13,069 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:18:13,069 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:18:13,069 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:18:13,069 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:18:13,069 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:18:24,875 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:18:24,875 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:18:24,875 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:18:24,875 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:18:24,875 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:18:53,001 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:18:53,001 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:18:53,001 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:18:53,001 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:18:53,001 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:19:13,569 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:19:13,569 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:19:13,569 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:19:13,569 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:19:13,569 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:20:04,485 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:20:04,485 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:20:04,485 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:20:04,485 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:20:04,485 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:22:19,218 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:22:19,218 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:22:19,218 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:22:19,218 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:22:19,218 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-09 19:24:28,196 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-09 19:24:28,196 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-09 19:24:28,196 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-09 19:24:28,196 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-09 19:24:28,196 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
