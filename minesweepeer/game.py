@@ -76,5 +76,6 @@ def setup_logging():
 
 
 logger = setup_logging()
-board = Board.beginner()
+
+board = Board.intermediate()
 board.run_game(logger=logger)

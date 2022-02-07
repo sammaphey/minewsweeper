@@ -1131,3 +1131,83 @@
 2021-12-09 19:24:28,196 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
 2021-12-09 19:24:28,196 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
 2021-12-09 19:24:28,196 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 09:26:21,779 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 09:26:21,779 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 09:26:21,779 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 09:26:21,779 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 09:26:21,779 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 09:26:48,975 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 09:26:48,975 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 09:26:48,976 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 09:26:48,976 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 09:26:48,976 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 09:28:51,520 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 09:28:51,521 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 09:28:51,521 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 09:28:51,521 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 09:28:51,521 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:39:56,270 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:39:56,271 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:39:56,271 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:39:56,271 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:39:56,271 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:40:22,695 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:40:22,696 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:40:22,696 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:40:22,696 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:40:22,696 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:42:42,144 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:42:42,145 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:42:42,145 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:42:42,145 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:42:42,145 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:42:53,284 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:42:53,284 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:42:53,284 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:42:53,284 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:42:53,284 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:49:35,421 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:49:35,422 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:49:35,422 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:49:35,422 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:49:35,422 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:49:49,452 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:49:49,452 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:49:49,452 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:49:49,452 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:49:49,452 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-10 10:52:54,659 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-10 10:52:54,659 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-10 10:52:54,659 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-10 10:52:54,659 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-10 10:52:54,659 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-11 19:33:28,018 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-11 19:33:28,019 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-11 19:33:28,019 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-11 19:33:28,019 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-11 19:33:28,019 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-11 19:36:55,194 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-11 19:36:55,196 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-11 19:36:55,196 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-11 19:36:55,196 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-11 19:36:55,196 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-11 19:37:05,968 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-11 19:37:05,968 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-11 19:37:05,968 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-11 19:37:05,968 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-11 19:37:05,968 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-11 19:38:43,241 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-11 19:38:43,241 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-11 19:38:43,241 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-11 19:38:43,241 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-11 19:38:43,241 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-11 19:38:54,555 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-11 19:38:54,555 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-11 19:38:54,555 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-11 19:38:54,555 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-11 19:38:54,555 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled
+2021-12-11 19:39:38,850 - __main__:setup_logging:70 - INFO - -------------------------STARTING-------------------------
+2021-12-11 19:39:38,850 - __main__:setup_logging:71 - INFO - INFO Logging Level -- Enabled
+2021-12-11 19:39:38,850 - __main__:setup_logging:72 - WARNING - WARNING Logging Level -- Enabled
+2021-12-11 19:39:38,850 - __main__:setup_logging:73 - CRITICAL - CRITICAL Logging Level -- Enabled
+2021-12-11 19:39:38,850 - __main__:setup_logging:74 - DEBUG - DEBUG Logging Level -- Enabled

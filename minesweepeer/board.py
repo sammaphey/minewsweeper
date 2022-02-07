@@ -1,4 +1,4 @@
-from typing import List
+from typing import Callable, List
 import math
 import pygame
 import pygame.gfxdraw
@@ -9,6 +9,7 @@ from enum import Enum
 from util import build_adj_list
 
 from tile import Tile
+from constants import BLACK, WHITE
 
 pygame.init()
 
@@ -104,7 +105,7 @@ class Board:
 
     def run_game(self, logger):
         # Setup the display
-        background_colour = (255, 255, 255)
+        background_colour = BLACK
         self.screen: pygame.Surface = pygame.display.set_mode(self.screen_dimensions)
         pygame.display.set_caption('Minesweeper')
         self.screen.fill(background_colour)
@@ -113,7 +114,7 @@ class Board:
 
         # Construct the board look
         for row in self.tiles:
-            [pygame.draw.rect(self.screen, (0, 0, 0), t.clickable_area) for t in row]
+            [pygame.draw.rect(self.screen, WHITE, t.clickable_area) for t in row]
         pygame.display.update()
 
         while self.running:
@@ -122,7 +123,7 @@ class Board:
 
     def all_tiles_revealed(self):
         return all(t.is_revealed or t.flagged for row in self.tiles for t in row)
-        
+
     def _handle_game_event(self, event):
         func = self.EVENT_DISPATCH.get(event.type)
         if func:
